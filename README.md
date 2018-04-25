@@ -105,7 +105,7 @@ All client files have been successfully backed up to `sandbox` folder on the ser
 
 Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
 
-## Bug Reporting [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/jellycsc/file-sync-over-socket/issues/)
+## Bug Reporting [![GitHub issues](https://img.shields.io/github/issues/jellycsc/file-sync-over-socket.svg)](https://github.com/jellycsc/file-sync-over-socket/issues/)
 
 Please click `issue` button above↑ to report any issues related to this project  
 OR you can shoot an email to <nichenjie2013@gmail.com>
