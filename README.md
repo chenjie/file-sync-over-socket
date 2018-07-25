@@ -10,7 +10,7 @@ pid_t pid = fork(); // Handle recursive calls for each subdirectory.
 ### Prerequisites
 
 * GCC
-* Terminal (in Unix) OR PowerShell (in Windows)
+* Terminal/Console (in UNIX) OR PowerShell (in Windows)
 
 ### Download source code and compile
 The following instructions are presented using Terminal in macOS:
@@ -110,3 +110,5 @@ Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-
 Please click `issue` button above↑ to report any issues related to this project  
 OR you can shoot an email to <nichenjie2013@gmail.com>
 
+## License
+This project is licensed under GNU General Public License v3.0 - see [LICENSE](LICENSE) file for more details.
