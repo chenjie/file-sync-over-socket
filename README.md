@@ -1,4 +1,6 @@
 # file-sync-over-socket
+[![GitHub license](https://img.shields.io/github/license/jellycsc/trim-and-trace-memory-references.svg)](https://github.com/jellycsc/trim-and-trace-memory-references/blob/master/LICENSE)
+
 A file backup program that transfers files from client side to server side sandbox using socket in C. After the file transfer is done, it automatically checks the integrity of the file by calculating a new hash value and comparing it with the one that server has received. If they match, the process is completed. Otherwise, client will be asked to resend that file.  
 Just like the local version, multiple processes are used to transfer files concurrently, which speeds up the program.  
 ```
